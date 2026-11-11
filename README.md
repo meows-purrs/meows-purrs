@@ -1,35 +1,129 @@
-<h1 align="center">Hi 👋, I'm Abhiraj Rana</h1>
-<h3 align="center">Decoding the mind through data, philosophy, and empirical inquiry</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meows-purrs&label=Profile%20views&color=0e75b6&style=flat" alt="meows-purrs" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meows-purrs" alt="meows-purrs" /></a> </p>
+# Hey, I'm Abhiraj Rana 👋
 
-- 🔭 I’m currently working on **computational psycholinguistics**
+### `meows-purrs`
 
-- 🌱 I’m currently learning **Natural language processing**
+**Decoding the mind through data, philosophy, and empirical inquiry.**
 
-- 🤝 I’m looking for help with **human consciousness, cognitive architecture, and computational text analysis—seeking clarit**
+Exploring the intersection of **Psychology, Computer Science, Mathematics, and Artificial Intelligence.**
 
-- 💬 Ask me about **Data science, Mathematics**
+[![Profile Views](https://komarev.com/ghpvc/?username=meows-purrs&label=Profile%20Views&color=6366f1&style=flat)](https://github.com/meows-purrs)
+[![Followers](https://img.shields.io/github/followers/meows-purrs?label=Followers&style=flat&color=6366f1)](https://github.com/meows-purrs?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/meows-purrs?affiliations=OWNER&style=flat&color=6366f1&label=Stars)](https://github.com/meows-purrs?tab=repositories)
 
-- 📫 How to reach me **abhirajrana165@gmail.com**
+</div>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CPZA6CYXLQWsCcBmWUN2xOKYt0Wt-VZ8/view?usp=drive_link](https://drive.google.com/file/d/1CPZA6CYXLQWsCcBmWUN2xOKYt0Wt-VZ8/view?usp=drive_link)
+---
 
-- ⚡ Fun fact **I have an art channel on isnta!**
+## 🧠 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhiraj-rana-858ba2229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiraj-rana-858ba2229" height="30" width="40" /></a>
-<a href="https://instagram.com/bishu0707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bishu0707" height="30" width="40" /></a>
-</p>
+- 🔭 Currently exploring **Computational Psycholinguistics**.
+- 🌱 Learning **Natural Language Processing, Machine Learning, and AI Engineering**.
+- 🧩 Interested in **Human Consciousness, Cognitive Architecture, and Computational Text Analysis**.
+- 📊 Ask me about **Data Science, Mathematics, and Psychology**.
+- 🎨 I also enjoy art, creativity, and exploring ideas beyond technology.
+- 📫 Reach me at: **abhirajrana165@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meows-purrs&show_icons=true&locale=en&layout=compact" alt="meows-purrs" /></p>
+## 🛠️ Technologies & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meows-purrs&show_icons=true&locale=en" alt="meows-purrs" /></p>
+**Programming & Development**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meows-purrs&" alt="meows-purrs" /></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Data Science & Machine Learning**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+
+**Databases & Cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Creative Tools**
+
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch&logoColor=black)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- GitHub profile statistics -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=meows-purrs&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub statistics for meows-purrs" />
+
+<!-- Most used programming languages -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meows-purrs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=meows-purrs&theme=tokyonight&hide_border=true" alt="GitHub contribution streak statistics" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meows-purrs&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution and commit activity graph" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+A selection of projects, experiments, and ideas I'm exploring.
+
+### 🧠 CampusMind
+A research-oriented platform exploring how AI can support university students, researchers, and academic workflows.
+
+**Focus:** AI Engineering · Research Tools · Education
+
+### 🔬 Computational Psycholinguistics
+Exploring computational approaches to language, cognition, and human behaviour through text analysis and NLP.
+
+**Focus:** NLP · Psychology · Data Science
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhiraj%20Rana-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhiraj-rana-858ba2229)
+
+[![Instagram](https://img.shields.io/badge/Instagram-bishu0707-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/bishu0707)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhirajrana165@gmail.com)
+
+[**📄 View My CV**](https://drive.google.com/file/d/1CPZA6CYXLQWsCcBmWUN2xOKYt0Wt-VZ8/view?usp=drive_link)
+
+<br/>
+
+*Stay curious. Keep questioning. Build things that help us understand the world.*
+
+</div>
